@@ -1,0 +1,11 @@
+{
+    "name": "sylvain/workeyfy-api",
+    "description": "API pour la partie administration",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
